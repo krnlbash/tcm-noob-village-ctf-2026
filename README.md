@@ -59,7 +59,9 @@ Each write-up follows the same structure: **Challenge Description → Methodolog
 
 ## About Me
 
-I'm **Kernel Bash** (krnlbash), a BS Cybersecurity student at the National Cyber Security Academy (NCSA), Air University, focused on offensive security. I compete in CTFs with team **Air2Shell** and publish additional writeups at [krnlbase.netlify.app](https://krnlbase.netlify.app).
+I'm **Muhammad Abdullah Maaz** (krnlbash) — a Cybersecurity student at Air University's NCSA, still finding my footing in the field. I'm comfortable with C++ and Linux, picking up Python and Bash along the way, and I spend most of my time hands-on: practicing on cybersecurity platforms, competing in CTFs, and building things like [krnlbase](https://krnlbase.netlify.app), a small security platform I put together mostly to learn by doing.
+
+Cybersecurity in the context of modern air warfare has interested me since school — radar systems, air defence networks, avionics, network-centric operations, and figuring out how an adversary would actually go about breaking them.
 
 ---
 
