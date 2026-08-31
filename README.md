@@ -1,5 +1,8 @@
 # TCM Security CTF @ DEF CON 2026 — Writeups
 
+This work © 2026 Muhammad Abdullah Maaz is licensed under CC BY 4.0.
+To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
 This repository contains my write-ups and solutions for the TCM Security CTF at DEF CON 2026, played under the alias **krnlbash**.
 
 ## 📊 Summary
